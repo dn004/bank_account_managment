@@ -1,0 +1,15 @@
+C:\Users\user\Documents\bank_account_managment\obj\Debug\net7.0\bank_account_managment.csproj.AssemblyReference.cache
+C:\Users\user\Documents\bank_account_managment\obj\Debug\net7.0\bank_account_managment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\bank_account_managment\obj\Debug\net7.0\bank_account_managment.AssemblyInfoInputs.cache
+C:\Users\user\Documents\bank_account_managment\obj\Debug\net7.0\bank_account_managment.AssemblyInfo.cs
+C:\Users\user\Documents\bank_account_managment\obj\Debug\net7.0\bank_account_managment.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\bank_account_managment\bin\Debug\net7.0\bank_account_managment.exe
+C:\Users\user\Documents\bank_account_managment\bin\Debug\net7.0\bank_account_managment.deps.json
+C:\Users\user\Documents\bank_account_managment\bin\Debug\net7.0\bank_account_managment.runtimeconfig.json
+C:\Users\user\Documents\bank_account_managment\bin\Debug\net7.0\bank_account_managment.dll
+C:\Users\user\Documents\bank_account_managment\bin\Debug\net7.0\bank_account_managment.pdb
+C:\Users\user\Documents\bank_account_managment\obj\Debug\net7.0\bank_account_managment.dll
+C:\Users\user\Documents\bank_account_managment\obj\Debug\net7.0\refint\bank_account_managment.dll
+C:\Users\user\Documents\bank_account_managment\obj\Debug\net7.0\bank_account_managment.pdb
+C:\Users\user\Documents\bank_account_managment\obj\Debug\net7.0\bank_account_managment.genruntimeconfig.cache
+C:\Users\user\Documents\bank_account_managment\obj\Debug\net7.0\ref\bank_account_managment.dll
