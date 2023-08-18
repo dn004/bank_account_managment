@@ -4,8 +4,9 @@ namespace BankAccount
 {
   class Account
   {
-   private string clientname;
+   private string? clientname;
    private double balance;
+   private long accountnumber;
    
    public string ClientName{
     get {return clientname;}
@@ -15,6 +16,12 @@ namespace BankAccount
     get{return balance;}
     set{balance = value;}
    }
+   
+   public long AccountNumber{
+    get{return accountnumber;}
+    set{accountnumber = value;}
+   }
+
 
 
    public double Withdraw(double withdrawAmount){
